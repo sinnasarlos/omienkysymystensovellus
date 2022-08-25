@@ -1,2 +1,5 @@
 # omienkysymystensovellus
-Lisää omia kysymyksiä ja vastauksia. Konsolissa käytettävä sovellus
+
+Dart-kielen harjoittelua.
+
+Lisää omia kysymyksiä ja vastauksia. Konsolissa käytettävä sovellus (tarkoitus kehittää eteenpäin sovelluksessa "kyselysovellus")
