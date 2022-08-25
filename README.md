@@ -1,2 +1,2 @@
 # omienkysymystensovellus
-Lisää omia kysymyksiä ja vastauksia. Terminaalissa käytettävä sovellus
+Lisää omia kysymyksiä ja vastauksia. Konsolissa käytettävä sovellus
